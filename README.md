@@ -1,6 +1,6 @@
 # ListFilter
 
-**TODO: Add description**
+Call ListFilter.call() with a list to get the odd integer amount from it.
 
 ## Installation
 
